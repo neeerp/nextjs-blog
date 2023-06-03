@@ -1,8 +1,7 @@
-import Head from 'next/head';
-import Image from 'next/image';
-import Link from 'next/link';
+import Head from "next/head";
+import Image from "next/image";
 
-import Layout from '../../components/layout';
+import Layout from "../../components/layout";
 
 export default function FirstPost() {
   return (
@@ -17,10 +16,5 @@ export default function FirstPost() {
 }
 
 const ProfilePic = () => (
-  <Image
-    src="/images/profile.jpg"
-    height={144}
-    width={144}
-    alt="David"
-  />
+  <Image src="/images/profile.jpg" height={144} width={144} alt="David" />
 );
