@@ -6,7 +6,7 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 
 const name = "David Goldstein";
-export const siteTitle = "Next.js Sample Website";
+export const siteTitle = "David's Blog";
 
 export default function Layout({ children, home }: {
   children: React.ReactNode,
@@ -15,7 +15,7 @@ export default function Layout({ children, home }: {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/acorn.png" title="Acorn icons created by Freepik - Flaticon" />
         <meta
           name="description"
           content="Check out my personal website that I built using the Next.js tutorial!"
