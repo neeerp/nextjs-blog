@@ -16,47 +16,47 @@ export const getStaticProps: GetStaticProps = () => {
   };
 };
 
-export default function Home({ allPostsData }: {
+export default function Home({
+  allPostsData,
+}: {
   allPostsData: {
-    date: string
-    title: string
-    id: string
-  }[]
+    date: string;
+    title: string;
+    id: string;
+  }[];
 }) {
   return (
-    <Layout home >
+    <Layout home>
       <Head>
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hey there, I&apos;m David! I&apos;m a full time Software Engineer 💻 and
-          hobbyist Squirrel Tamer 🐿️!When I&apos;m not writing code or busy raising
-          an army of squirrels, I&apos;m probably losing track of time exploring a
-          rabbithole of vim configurations.
+          Hey there, I&apos;m David! I&apos;m a full time Software Engineer 💻
+          and hobbyist Squirrel Tamer 🐿️!When I&apos;m not writing code or busy
+          raising an army of squirrels, I&apos;m probably losing track of time
+          exploring a rabbithole of vim configurations.
         </p>
         <p>
           Anyhow, I&apos;ve built this nifty personal site by following the{" "}
-          <a href="https://nextjs.org/learn"> Next.js tutorial </a>! Feel free to
-          take a look around, and perhaps check out this sample{" "}
+          <a href="https://nextjs.org/learn"> Next.js tutorial </a>! Feel free
+          to take a look around, and perhaps check out this sample{" "}
           <Link href="/posts/first-post"> Blog Post </Link>!
         </p>
       </section>
 
-      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`
-      }>
+      <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}> Blog </h2>
-        <ul className={utilStyles.list} >
-          {
-            allPostsData.map(({ id, date, title }) => (
-              <li className={utilStyles.listItem} key={id} >
-                <Link href={`/posts/${id}`} > {title} </Link>
-                <br />
-                <small className={utilStyles.lightText}>
-                  <Date dateString={date} />
-                </small>
-              </li>
-            ))}
+        <ul className={utilStyles.list}>
+          {allPostsData.map(({ id, date, title }) => (
+            <li className={utilStyles.listItem} key={id}>
+              <Link href={`/posts/${id}`}> {title} </Link>
+              <br />
+              <small className={utilStyles.lightText}>
+                <Date dateString={date} />
+              </small>
+            </li>
+          ))}
         </ul>
       </section>
     </Layout>
