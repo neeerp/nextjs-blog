@@ -40,8 +40,7 @@ export default function Home({
         <p>
           Anyhow, I&apos;ve built this nifty personal site by following the{" "}
           <a href="https://nextjs.org/learn"> Next.js tutorial </a>! Feel free
-          to take a look around, and perhaps check out this sample{" "}
-          <Link href="/posts/first-post"> Blog Post </Link>!
+          to take a look around, and perhaps check out one of my posts below!
         </p>
       </section>
 
