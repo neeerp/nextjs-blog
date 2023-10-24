@@ -30,6 +30,9 @@ I can proudly say that I've read these books cover to cover!
 - [System Design Interview Vol.
   1](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
 
+- [Pythonic Programming: Tips for Becoming an Idiomatic Python
+  Programmer](https://www.goodreads.com/book/show/59094309-pythonic-programming) (Added 2023/10/23)
+
 ## Currently Reading
 
 I'm actively reading the following books still. As of writing this, I just
