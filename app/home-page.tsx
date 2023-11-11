@@ -23,7 +23,7 @@ export default function Home({
       <section className="text-xl/tight">
         <p className="my-5">
           Hey there, I&apos;m David! I&apos;m a full time Software Engineer 💻
-          and hobbyist Squirrel Tamer 🐿️!When I&apos;m not writing code or busy
+          and hobbyist Squirrel Tamer 🐿️! When I&apos;m not writing code or busy
           raising an army of squirrels, I&apos;m probably losing track of time
           exploring a rabbithole of vim configurations.
         </p>
