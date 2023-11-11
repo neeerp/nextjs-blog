@@ -3,19 +3,25 @@ import Image from "next/image";
 import Link from "next/link";
 
 import styles from "./layout.module.css";
-import utilStyles from "../styles/utils.module.css";
 
 const name = "David Goldstein";
 export const siteTitle = "David's Blog";
 
-export default function Layout({ children, home }: {
-  children: React.ReactNode,
-  home?: boolean
+export default function Layout({
+  children,
+  home,
+}: {
+  children: React.ReactNode;
+  home?: boolean;
 }) {
   return (
     <div className={styles.container}>
       <Head>
-        <link rel="icon" href="/images/acorn.png" title="Acorn icons created by Freepik - Flaticon" />
+        <link
+          rel="icon"
+          href="/images/acorn.png"
+          title="Acorn icons created by Freepik - Flaticon"
+        />
         <meta
           name="description"
           content="Check out my personal website that I built using the Next.js tutorial!"
@@ -36,12 +42,14 @@ export default function Layout({ children, home }: {
             <Image
               priority
               src="/images/profile.jpg"
-              className={utilStyles.borderCircle}
+              className="rounded-full"
               height={144}
               width={144}
               alt=""
             />
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <h1 className="text-[2.5rem]/[1.2] font-extrabold tracking-tight my-4">
+              {name}
+            </h1>
           </>
         ) : (
           <>
@@ -49,14 +57,14 @@ export default function Layout({ children, home }: {
               <Image
                 priority
                 src="/images/profile.jpg"
-                className={utilStyles.borderCircle}
+                className="rounded-full"
                 height={108}
                 width={108}
                 alt=""
               />
             </Link>
-            <h2 className={utilStyles.headingLg}>
-              <Link href="/" className={utilStyles.colorInherit}>
+            <h2 className="text-2xl/snug my-4">
+              <Link href="/" className="text-black">
                 {name}
               </Link>
             </h2>

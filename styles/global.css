@@ -4,6 +4,10 @@
   a {
     @apply text-[#0070f3];
   }
+
+  a:hover {
+    @apply underline;
+  }
 }
 
 @tailwind components;

@@ -39,7 +39,6 @@ export default function Home({
         <ul>
           {allPostsData.map(({ id, date, title }) => (
             <li className="mb-5" key={id}>
-              {/**<li className={utilStyles.listItem} key={id}>**/}
               <Link href={`/posts/${id}`}> {title} </Link>
               <br />
               <small className="text-gray-500">
