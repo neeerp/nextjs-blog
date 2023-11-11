@@ -62,7 +62,7 @@ export default function Layout({
               />
             </Link>
             <h2 className="text-2xl/snug my-4">
-              <Link href="/" className="text-black">
+              <Link href="/" className="text-black font-bold">
                 {name}
               </Link>
             </h2>

@@ -1,6 +1,11 @@
 @tailwind base;
 
 @layer base {
+  html,
+  body {
+    @apply text-lg font-sans;
+  }
+
   a {
     @apply text-[#0070f3];
   }
@@ -12,4 +17,3 @@
 
 @tailwind components;
 @tailwind utilities;
-@import "./general.css";
