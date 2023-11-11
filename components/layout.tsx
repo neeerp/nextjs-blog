@@ -2,8 +2,6 @@ import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
 
-import styles from "./layout.module.css";
-
 const name = "David Goldstein";
 export const siteTitle = "David's Blog";
 
@@ -15,7 +13,7 @@ export default function Layout({
   home?: boolean;
 }) {
   return (
-    <div className={styles.container}>
+    <div className="max-w-xl px-4 mt-12 mx-auto mb-24">
       <Head>
         <link
           rel="icon"
@@ -36,7 +34,7 @@ export default function Layout({
         <meta name="twitter:card" content="summary_large_image" />
       </Head>
 
-      <header className={styles.header}>
+      <header className="flex flex-col items-center">
         {home ? (
           <>
             <Image
@@ -73,7 +71,7 @@ export default function Layout({
       </header>
       <main>{children}</main>
       {!home && (
-        <div className={styles.backToHome}>
+        <div className="mt-12">
           <Link href="/">← Back to home</Link>
         </div>
       )}
