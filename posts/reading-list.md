@@ -31,7 +31,9 @@ I can proudly say that I've read these books cover to cover!
   1](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
 
 - [Pythonic Programming: Tips for Becoming an Idiomatic Python
-  Programmer](https://www.goodreads.com/book/show/59094309-pythonic-programming) (Added 2023/10/23)
+  Programmer](https://www.goodreads.com/book/show/59094309-pythonic-programming) (Completed 2023/10/23)
+
+- [Explain the Cloud Like I'm 10](https://www.goodreads.com/book/show/38598010-explain-the-cloud-like-i-m-10) (Completed 2023/11/19)
 
 ## Currently Reading
 
