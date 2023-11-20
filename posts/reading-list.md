@@ -41,11 +41,7 @@ I'm actively reading the following books still. As of writing this, I just
 started 'Team Topologies', however I like to switch up what I'm currently
 reading sometimes and have the others on the back-burner.
 
-- [Team Topologies: Organizing Business and Technology Teams for Fast
-  Flow](https://www.goodreads.com/book/show/59495524-team-topologies)
-
-- [The Staff Engineer's
-  Path](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
+- [Readings in Database Systems](http://www.redbook.io/) (and the associated papers)
 
 - [Head First Design Patterns (2nd
   Ed.)](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
@@ -58,6 +54,12 @@ two remaining, while others I may have >50% the book remaining).
 
 I plan on coming back to some of them, while others might be a bit too dry for
 my liking (_cough_ Code Complete) or were only read for specific reference.
+
+- [Team Topologies: Organizing Business and Technology Teams for Fast
+  Flow](https://www.goodreads.com/book/show/59495524-team-topologies)
+
+- [The Staff Engineer's
+  Path](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
 
 - [Clean
   Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture)
