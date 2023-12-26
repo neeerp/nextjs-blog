@@ -40,9 +40,7 @@ I can proudly say that I've read these books cover to cover!
 
 ## Currently Reading
 
-I'm actively reading the following books still. As of writing this, I just
-started 'Team Topologies', however I like to switch up what I'm currently
-reading sometimes and have the others on the back-burner.
+I'm actively reading the following books.
 
 - [Readings in Database Systems](http://www.redbook.io/) (and the associated papers)
 
