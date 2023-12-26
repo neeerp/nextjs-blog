@@ -35,6 +35,9 @@ I can proudly say that I've read these books cover to cover!
 
 - [Explain the Cloud Like I'm 10](https://www.goodreads.com/book/show/38598010-explain-the-cloud-like-i-m-10) (Completed 2023/11/19)
 
+- [Clean
+  Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture) (Completed 2023/12/??)
+
 ## Currently Reading
 
 I'm actively reading the following books still. As of writing this, I just
@@ -45,6 +48,9 @@ reading sometimes and have the others on the back-burner.
 
 - [Head First Design Patterns (2nd
   Ed.)](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
+
+- [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL
+  Movement](https://www.goodreads.com/book/show/13130963-seven-databases-in-seven-weeks?from_search=true&from_srp=true&qid=rlr6eDIoSR&rank=1)
 
 ## Paused
 
@@ -60,9 +66,6 @@ my liking (_cough_ Code Complete) or were only read for specific reference.
 
 - [The Staff Engineer's
   Path](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
-
-- [Clean
-  Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture)
 
 - [How to Win Friends and Influence
   People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
