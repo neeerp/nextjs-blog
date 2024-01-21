@@ -3,40 +3,33 @@ title: "Personal Reading List: 2023"
 date: "2023-10-09"
 ---
 
-This is a selection of books that I've read or am currently reading in 2023.
+This is a selection of books that I've read or am currently reading in 2023 (and 2024 now).
 
 ## Read
 
 I can proudly say that I've read these books cover to cover!
 
-- [The Pragmatic Programmer: From Journeyman to
-  Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [The Pragmatic Programmer](https://www.goodreads.com/book/show/4099)
 
-- [Clean Code: A Handbook of Agile Software
-  Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
+- [Clean Code](https://www.goodreads.com/book/show/3735293)
 
-- [Radical
-  Candor](https://www.goodreads.com/book/show/29939161-radical-candor)
+- [Radical Candor](https://www.goodreads.com/book/show/29939161)
 
-- [Designing Data-Intensive
-  Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+- [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279)
 
-- [The Phoenix
-  Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
+- [The Phoenix Project](https://www.goodreads.com/book/show/17255186)
 
-- [The Tech Resume Inside
-  Out](https://www.goodreads.com/book/show/55608536-the-tech-resume-inside-out)
+- [The Tech Resume Inside Out](https://www.goodreads.com/book/show/55608536)
 
-- [System Design Interview Vol.
-  1](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide)
+- [System Design Interview Vol. 1](https://www.goodreads.com/book/show/54109255)
 
-- [Pythonic Programming: Tips for Becoming an Idiomatic Python
-  Programmer](https://www.goodreads.com/book/show/59094309-pythonic-programming) (Completed 2023/10/23)
+- [Pythonic Programming](https://www.goodreads.com/book/show/59094309) (Completed 2023/10/23)
 
-- [Explain the Cloud Like I'm 10](https://www.goodreads.com/book/show/38598010-explain-the-cloud-like-i-m-10) (Completed 2023/11/19)
+- [Explain the Cloud Like I'm 10](https://www.goodreads.com/book/show/38598010) (Completed 2023/11/19)
 
-- [Clean
-  Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture) (Completed 2023/12/??)
+- [Clean Architecture](https://www.goodreads.com/book/show/18043011) (Completed 2023/12/??)
+
+- [The Soul of a New Machine](https://www.goodreads.com/en/book/show/7090) (Completed 2024/01/19)
 
 ## Currently Reading
 
@@ -44,11 +37,13 @@ I'm actively reading the following books.
 
 - [Readings in Database Systems](http://www.redbook.io/) (and the associated papers)
 
-- [Head First Design Patterns (2nd
-  Ed.)](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns)
+- [Head First Design Patterns (2nd Ed.)](https://www.goodreads.com/book/show/58128)
 
-- [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL
-  Movement](https://www.goodreads.com/book/show/13130963-seven-databases-in-seven-weeks?from_search=true&from_srp=true&qid=rlr6eDIoSR&rank=1)
+- [Seven Databases in Seven Weeks](https://www.goodreads.com/book/show/13130963)
+
+- [Domain-Driven Design](https://www.goodreads.com/book/show/179133)
+
+- [Atomic Habits](https://www.goodreads.com/book/show/40121378)
 
 ## Paused
 
