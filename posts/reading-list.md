@@ -31,6 +31,8 @@ I can proudly say that I've read these books cover to cover!
 
 - [The Soul of a New Machine](https://www.goodreads.com/en/book/show/7090) (Completed 2024/01/19)
 
+- [Atomic Habits](https://www.goodreads.com/book/show/40121378) (Completed 2024/01/28)
+
 ## Currently Reading
 
 I'm actively reading the following books.
@@ -43,7 +45,7 @@ I'm actively reading the following books.
 
 - [Domain-Driven Design](https://www.goodreads.com/book/show/179133)
 
-- [Atomic Habits](https://www.goodreads.com/book/show/40121378)
+- [The Staff Engineer's Path](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
 
 ## Paused
 
@@ -56,9 +58,6 @@ my liking (_cough_ Code Complete) or were only read for specific reference.
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast
   Flow](https://www.goodreads.com/book/show/59495524-team-topologies)
-
-- [The Staff Engineer's
-  Path](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
 
 - [How to Win Friends and Influence
   People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
