@@ -37,15 +37,9 @@ I can proudly say that I've read these books cover to cover!
 
 I'm actively reading the following books.
 
-- [Readings in Database Systems](http://www.redbook.io/) (and the associated papers)
+- [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927)
 
-- [Head First Design Patterns (2nd Ed.)](https://www.goodreads.com/book/show/58128)
-
-- [Seven Databases in Seven Weeks](https://www.goodreads.com/book/show/13130963)
-
-- [Domain-Driven Design](https://www.goodreads.com/book/show/179133)
-
-- [The Staff Engineer's Path](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
+- [Super Pumped: The Battle for Uber](https://www.goodreads.com/book/show/44573628)
 
 ## Paused
 
@@ -55,6 +49,16 @@ two remaining, while others I may have >50% the book remaining).
 
 I plan on coming back to some of them, while others might be a bit too dry for
 my liking (_cough_ Code Complete) or were only read for specific reference.
+
+- [Readings in Database Systems](http://www.redbook.io/) (and the associated papers)
+
+- [Head First Design Patterns (2nd Ed.)](https://www.goodreads.com/book/show/58128)
+
+- [Seven Databases in Seven Weeks](https://www.goodreads.com/book/show/13130963)
+
+- [Domain-Driven Design](https://www.goodreads.com/book/show/179133)
+
+- [The Staff Engineer's Path](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast
   Flow](https://www.goodreads.com/book/show/59495524-team-topologies)
