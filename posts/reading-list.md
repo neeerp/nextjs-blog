@@ -1,5 +1,5 @@
 ---
-title: "Personal Reading List: 2023"
+title: "Personal Reading List"
 date: "2023-10-09"
 ---
 
