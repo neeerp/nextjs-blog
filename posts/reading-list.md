@@ -33,13 +33,15 @@ I can proudly say that I've read these books cover to cover!
 
 - [Atomic Habits](https://www.goodreads.com/book/show/40121378) (Completed 2024/01/28)
 
+- [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927)
+
+- [Super Pumped: The Battle for Uber](https://www.goodreads.com/book/show/44573628)
+
 ## Currently Reading
 
 I'm actively reading the following books.
 
-- [How to Take Smart Notes](https://www.goodreads.com/book/show/34507927)
-
-- [Super Pumped: The Battle for Uber](https://www.goodreads.com/book/show/44573628)
+- [The Staff Engineer's Path](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
 
 ## Paused
 
@@ -57,8 +59,6 @@ my liking (_cough_ Code Complete) or were only read for specific reference.
 - [Seven Databases in Seven Weeks](https://www.goodreads.com/book/show/13130963)
 
 - [Domain-Driven Design](https://www.goodreads.com/book/show/179133)
-
-- [The Staff Engineer's Path](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
 
 - [Team Topologies: Organizing Business and Technology Teams for Fast
   Flow](https://www.goodreads.com/book/show/59495524-team-topologies)
