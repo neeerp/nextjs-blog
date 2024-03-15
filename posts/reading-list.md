@@ -37,11 +37,13 @@ I can proudly say that I've read these books cover to cover!
 
 - [Super Pumped: The Battle for Uber](https://www.goodreads.com/book/show/44573628)
 
+- [The Staff Engineer's Path](https://www.goodreads.com/book/show/61058107)
+
 ## Currently Reading
 
 I'm actively reading the following books.
 
-- [The Staff Engineer's Path](https://www.goodreads.com/book/show/61058107-the-staff-engineer-s-path)
+- [Getting Things Done](https://www.goodreads.com/book/show/1633)
 
 ## Paused
 
@@ -65,9 +67,6 @@ my liking (_cough_ Code Complete) or were only read for specific reference.
 
 - [How to Win Friends and Influence
   People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
-
-- [Getting Things
-  Done](https://www.goodreads.com/book/show/1633.Getting_Things_Done)
 
 - [Refactoring: Improving the Design of Existing
   Code](https://www.goodreads.com/book/show/44936.Refactoring)
