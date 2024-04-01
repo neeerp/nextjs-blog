@@ -43,7 +43,11 @@ I can proudly say that I've read these books cover to cover!
 
 I'm actively reading the following books.
 
-- [Getting Things Done](https://www.goodreads.com/book/show/1633)
+- [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759)
+
+- [The Subtle Art of Not Giving a F\*ck](https://www.goodreads.com/book/show/28257707)
+
+- [Ullyses](https://www.goodreads.com/book/show/139723937)
 
 ## Paused
 
@@ -53,6 +57,8 @@ two remaining, while others I may have >50% the book remaining).
 
 I plan on coming back to some of them, while others might be a bit too dry for
 my liking (_cough_ Code Complete) or were only read for specific reference.
+
+- [Getting Things Done](https://www.goodreads.com/book/show/1633)
 
 - [Readings in Database Systems](http://www.redbook.io/) (and the associated papers)
 
