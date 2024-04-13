@@ -39,13 +39,13 @@ I can proudly say that I've read these books cover to cover!
 
 - [The Staff Engineer's Path](https://www.goodreads.com/book/show/61058107)
 
+- [The Subtle Art of Not Giving a F\*ck](https://www.goodreads.com/book/show/28257707)
+
 ## Currently Reading
 
 I'm actively reading the following books.
 
 - [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759)
-
-- [The Subtle Art of Not Giving a F\*ck](https://www.goodreads.com/book/show/28257707)
 
 - [Ullyses](https://www.goodreads.com/book/show/139723937)
 
