@@ -45,9 +45,11 @@ I can proudly say that I've read these books cover to cover!
 
 I'm actively reading the following books.
 
-- [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759)
-
 - [Ullyses](https://www.goodreads.com/book/show/139723937)
+
+- [The Official MTO Driver's Handbook](https://www.goodreads.com/book/show/43500534)
+
+- [Psychological Types](https://www.goodreads.com/book/show/565806)
 
 ## Paused
 
@@ -57,6 +59,8 @@ two remaining, while others I may have >50% the book remaining).
 
 I plan on coming back to some of them, while others might be a bit too dry for
 my liking (_cough_ Code Complete) or were only read for specific reference.
+
+- [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759)
 
 - [Getting Things Done](https://www.goodreads.com/book/show/1633)
 
