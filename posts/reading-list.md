@@ -41,13 +41,13 @@ I can proudly say that I've read these books cover to cover!
 
 - [The Subtle Art of Not Giving a F\*ck](https://www.goodreads.com/book/show/28257707)
 
+- [The Official MTO Driver's Handbook](https://www.goodreads.com/book/show/43500534)
+
 ## Currently Reading
 
 I'm actively reading the following books.
 
 - [Ulysses](https://www.goodreads.com/book/show/139723937)
-
-- [The Official MTO Driver's Handbook](https://www.goodreads.com/book/show/43500534)
 
 - [Psychological Types](https://www.goodreads.com/book/show/565806)
 
