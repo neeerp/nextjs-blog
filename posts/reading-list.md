@@ -43,6 +43,8 @@ I can proudly say that I've read these books cover to cover!
 
 - [The Official MTO Driver's Handbook](https://www.goodreads.com/book/show/43500534)
 
+- [The Alchemy of Happiness](https://www.goodreads.com/book/show/43301637-the-alchemy-of-happiness)
+
 ## Currently Reading
 
 I'm actively reading the following books.
@@ -50,6 +52,11 @@ I'm actively reading the following books.
 - [Ulysses](https://www.goodreads.com/book/show/139723937)
 
 - [Psychological Types](https://www.goodreads.com/book/show/565806)
+
+- [Domain-Driven Design](https://www.goodreads.com/book/show/179133)
+
+- [How to Win Friends and Influence
+  People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
 ## Paused
 
@@ -70,13 +77,8 @@ my liking (_cough_ Code Complete) or were only read for specific reference.
 
 - [Seven Databases in Seven Weeks](https://www.goodreads.com/book/show/13130963)
 
-- [Domain-Driven Design](https://www.goodreads.com/book/show/179133)
-
 - [Team Topologies: Organizing Business and Technology Teams for Fast
   Flow](https://www.goodreads.com/book/show/59495524-team-topologies)
-
-- [How to Win Friends and Influence
-  People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
 - [Refactoring: Improving the Design of Existing
   Code](https://www.goodreads.com/book/show/44936.Refactoring)
