@@ -45,18 +45,18 @@ I can proudly say that I've read these books cover to cover!
 
 - [The Alchemy of Happiness](https://www.goodreads.com/book/show/43301637-the-alchemy-of-happiness)
 
+- [How to Win Friends and Influence
+  People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+
 ## Currently Reading
 
 I'm actively reading the following books.
 
 - [Ulysses](https://www.goodreads.com/book/show/139723937)
 
-- [Psychological Types](https://www.goodreads.com/book/show/565806)
-
 - [Domain-Driven Design](https://www.goodreads.com/book/show/179133)
 
-- [How to Win Friends and Influence
-  People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+- [Crucial Conversations](https://www.goodreads.com/book/show/15014)
 
 ## Paused
 
@@ -66,6 +66,8 @@ two remaining, while others I may have >50% the book remaining).
 
 I plan on coming back to some of them, while others might be a bit too dry for
 my liking (_cough_ Code Complete) or were only read for specific reference.
+
+- [Psychological Types](https://www.goodreads.com/book/show/565806)
 
 - [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759)
 
